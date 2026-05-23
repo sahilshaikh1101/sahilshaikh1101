@@ -1,83 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B0F19,50:111827,100:1E293B&text=MOHAMMAD%20SAHIL%20SHAIKH&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn"/>
-
-<h3>DevOps Engineer in Progress | Cybersecurity Enthusiast | Cloud & Infrastructure Learner</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=DevOps+%7C+Cybersecurity+%7C+Cloud+Computing;AWS+%7C+Docker+%7C+Jenkins+%7C+Linux;CI%2FCD+%7C+Automation+%7C+Infrastructure;Security+Research+%7C+Full+Stack+Projects" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:111827,100:1E293B&text=MOHAMMAD%20SAHIL%20SHAIKH&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Ahmedabad,_India-111827?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<h3>DevOps Engineer in Progress • Cybersecurity Enthusiast • Cloud Infrastructure Learner</h3>
 
-<img src="https://img.shields.io/badge/Focus-DevOps-0EA5E9?style=for-the-badge&logo=docker&logoColor=white"/>
+<p>
+Focused on Linux, Automation, Infrastructure Engineering, Cloud Technologies, and Security.
+</p>
 
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<br/>
 
-<img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=DevOps+%7C+Cybersecurity+%7C+Cloud+Computing;AWS+%7C+Docker+%7C+Jenkins+%7C+Linux;CI%2FCD+%7C+Infrastructure+Automation;Security+Research+%7C+Full+Stack+Projects" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sahilshaikh1101&label=Profile+Views&color=111827&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 
 </div>
 
 ---
 
-# Professional Summary
+# About Me
 
-Technology enthusiast focused on building strong practical expertise in **DevOps, Cybersecurity, Cloud Infrastructure, Linux Administration, and Automation** through hands-on learning and real-world projects.
+Focused on building practical expertise in DevOps, Cybersecurity, Cloud Infrastructure, and Linux Administration through hands-on projects and real-world implementation.
 
-Currently developing skills in infrastructure automation, CI/CD pipelines, containerized deployments, Linux environments, and security-focused systems while continuously improving knowledge of modern DevOps and cloud technologies.
+Currently focused on:
 
-Passionate about:
-- DevOps Engineering
-- Cybersecurity & Ethical Hacking
-- AWS Cloud Infrastructure
-- Linux Administration
-- Docker & Containerization
-- CI/CD Automation
-- Infrastructure Monitoring
-- Security Research & CTF Challenges
+- Infrastructure Automation  
+- Containerized Deployments  
+- CI/CD Pipeline Engineering  
+- Linux System Administration  
+- AWS Cloud Fundamentals  
+- Security Research & CTF Challenges  
 
 ---
 
 # Technical Skills
 
-## DevOps & Cloud
-- Docker
-- Jenkins
-- AWS Cloud Fundamentals
-- CI/CD Pipelines
-- Infrastructure Automation
-- Git & GitHub
-
-## Cybersecurity
-- Ethical Hacking Fundamentals
-- Vulnerability Assessment
-- Network Enumeration
-- Web Application Testing
-- Burp Suite
-- Nmap
-- CTF Challenges
-
-## Programming & Scripting
-- Python
-- Bash Scripting
-- HTML
-- CSS
-
-## Operating Systems & Tools
-- Linux Administration
-- Kali Linux
-- VS Code
-- Linux Terminal
-
----
-
-# Technology Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,git,github,bash,python,html,css,vscode,postgres,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,github,bash,python,postgres,nodejs,react,vscode" />
 
 </div>
+
+<br/>
+
+| Domain | Technologies |
+|---|---|
+| Cloud & DevOps | AWS, Docker, Jenkins, CI/CD, GitHub Actions |
+| Cybersecurity | Burp Suite, Nmap, Web Security, CTF Challenges |
+| Programming | Python, Bash, HTML, CSS |
+| Operating Systems | Linux, Kali Linux |
+| Databases | PostgreSQL |
+| Development Tools | Git, GitHub, VS Code |
 
 ---
 
@@ -85,71 +74,119 @@ Passionate about:
 
 ## H.E.R. SHIELD — Smart Wearable Safety System
 
-A futuristic cross-platform women’s safety application designed with intelligent emergency response mechanisms using real-time sensor monitoring and location tracking.
+IoT-inspired intelligent wearable safety platform designed to provide real-time emergency response mechanisms using sensor-driven monitoring and automated workflows.
 
-Built as a Universal React Native application supporting iOS, Android, and Web platforms with a secure Node.js and PostgreSQL backend architecture.
+The project integrates:
 
-### Core Features
-- Real-time Shake Detection using device sensors
-- Heartbeat anomaly monitoring and emergency triggering
-- Geo-Fencing with safe-zone breach alerts
-- Emergency countdown and alert workflow
-- Guardian auto-alert communication system
-- Modern neon-inspired UI with Glassmorphism design
+- Motion-Based Shake Detection  
+- Heartbeat Monitoring  
+- Geo-Fence Breach Detection  
+- Emergency Alert Automation  
+- Guardian Notification Systems  
+- Real-Time Sensor Monitoring  
 
-### Technology Used
-- React Native
-- Expo
-- Node.js
-- Express.js
-- PostgreSQL
-- Expo Sensors
-- Expo Location
-- Zustand
-- React Native Reanimated
+### Technology Stack
+
+- React Native  
+- Expo  
+- Node.js  
+- Express.js  
+- PostgreSQL  
+- Expo Sensors  
+- Expo Location  
+- Zustand  
+
+### Architecture
+
+```text
+Wearable / Sensor Layer
+            │
+            ▼
+Mobile & Web Application
+(React Native + Expo)
+            │
+            ▼
+REST API Backend
+(Node.js + Express.js)
+            │
+            ▼
+PostgreSQL Database
+```
 
 ---
 
-## Docker Web Server
+## NeuroTwin AI — Logistics Digital Twin Platform
 
-Containerized web application deployment using Docker with optimized service configuration and environment management.
+AI-powered logistics intelligence platform designed to visualize, predict, and optimize supply chain operations in real time.
+
+The platform creates a Digital Twin infrastructure capable of monitoring shipments, detecting disruptions, optimizing routes, and simulating operational scenarios.
+
+### Key Features
+
+- Real-Time Shipment Monitoring  
+- AI-Powered Risk Detection  
+- Route Optimization Engine  
+- Simulation & What-If Analysis  
+- Smart Alerts System  
+- Analytics Dashboard  
+- Interactive Logistics Map  
+
+### Technology Stack
+
+- React 19  
+- Vite  
+- Leaflet  
+- Chart.js  
+- Node.js  
+- Express.js  
+- PostgreSQL  
+
+### Architecture
+
+```text
+React Frontend
+        │
+        ▼
+REST API Backend
+(Node.js + Express.js)
+        │
+        ▼
+PostgreSQL Database
+```
 
 ---
 
 ## Jenkins CI/CD Pipeline
 
-Automated CI/CD workflow implementation using Jenkins for streamlined build and deployment processes.
-
----
-
-## Linux Automation Scripts
-
-Shell scripting projects focused on automation, monitoring, and Linux system administration tasks.
+Automated CI/CD workflow implementation using Jenkins for continuous integration and deployment automation.
 
 ---
 
 ## Cybersecurity Labs & CTF Challenges
 
-Hands-on cybersecurity practice involving enumeration, vulnerability assessment, and capture-the-flag challenge walkthroughs.
+Hands-on cybersecurity labs involving vulnerability analysis, enumeration, web security testing, and security research.
 
 ---
 
-# Current Learning Path
+# Areas of Focus
 
 ```yaml
-Cloud & DevOps:
-  - AWS Cloud Fundamentals
-  - Docker & Containerization
-  - Jenkins Automation
+Cloud:
+  - AWS Fundamentals
+  - Infrastructure Design
+  - Cloud Security
+
+DevOps:
+  - Docker
+  - Jenkins
   - CI/CD Pipelines
-  - Linux Server Administration
+  - Linux Administration
 
 Cybersecurity:
   - Web Security
-  - Linux Security
+  - Network Analysis
   - Ethical Hacking
   - Security Research
-  - Network Analysis
 
 Automation:
   - Bash Scripting
@@ -160,54 +197,25 @@ Automation:
 
 # Education
 
-## Master of Science in Information Technology (Cybersecurity)
-GLS University (2025–2027)
+### Master of Science in Information Technology (Cybersecurity)
+
+GLS University (2025 – 2027)
 
 Focused on Cybersecurity, Network Security, Ethical Hacking, and Security Practices.
 
 ---
 
-## Bachelor of Science in Information Technology
-Gujarat University (2022–2025) | CGPA: 8.4
+### Bachelor of Science in Information Technology
+
+Gujarat University (2022 – 2025) | CGPA: 8.4
 
 Specialization in Cloud & Application Development.
 
 ---
 
-## Higher Secondary Education (Science Stream)
+### Higher Secondary Education — Science Stream
+
 Ankur School, Ahmedabad
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilshaikh1101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshaikh1101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilshaikh1101&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# Development Environment
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Shell-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
 
 ---
 
@@ -216,29 +224,27 @@ Ankur School, Ahmedabad
 <div align="center">
 
 <a href="https://github.com/sahilshaikh1101">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammad-sahil-shaikh-53baa4250">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# Philosophy
+<div align="center">
 
-```text
-Focused on continuous learning, practical implementation,
-and building real-world technical skills through projects,
-automation, cloud technologies, and cybersecurity research.
-```
+Building secure infrastructure, scalable systems, and practical technical expertise through continuous learning and hands-on engineering.
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B0F19,50:111827,100:1E293B&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,50:111827,100:1E293B&section=footer"/>
 
 </div>
