@@ -237,7 +237,9 @@ Ankur School, Ahmedabad
 
 <div align="center">
 
-Building secure infrastructure, scalable systems, and practical technical expertise through continuous learning and hands-on engineering.
+⭐ Feel free to explore my repositories and connect with me!
+
+
 
 </div>
 
