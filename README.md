@@ -4,7 +4,7 @@
 
 <br/>
 
-<h3>DevOps Engineer in Progress • Cybersecurity Enthusiast </h3>
+<h3>DevOps Engineer  • Cybersecurity Enthusiast </h3>
 
 <p>
 Focused on Linux, Automation, Infrastructure Engineering, Cloud Technologies, and Security.
